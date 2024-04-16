@@ -4,3 +4,7 @@ chapters:
   - file: quick_start/README.md
     sections:
       - file: quick_start/agents.md
+  - file: rag/README.md
+    sections:
+      - url: https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/
+        title: 知识图谱
